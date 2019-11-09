@@ -1,24 +1,8 @@
-# README
+# Quiz
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Quiz 1 for the Spring 2019 UC Berkeley Full Stack Bootcamp
 
-Things you may want to cover:
+## Project Requirements
 
-* Ruby version
+Create a static HTML page with functional Rails backend
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
